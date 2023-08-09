@@ -1,2 +1,0 @@
-/usr/bin/ar qc libwhiteboard.a CMakeFiles/whiteboard.dir/src/Engine/SharedWhiteboard.cpp.o
-/usr/bin/ranlib libwhiteboard.a
